@@ -1,0 +1,12 @@
+header {
+    padding: 10px;
+    background-color: rgb(129, 184, 166);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+section {
+    background-color: antiquewhite;
+    display: inline-block;
+    height: 800px;
+    width: 100%;
+}

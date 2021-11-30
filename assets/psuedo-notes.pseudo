@@ -2,7 +2,7 @@ List of what is needed for quiz.
 
 Button and Timer:
 
-First I need a button that sets off timer and questions.
+First I need a start button to clear page, start timer and display questions with answers
 
 With each question, I need buttons on each answer that take you to the next question.
 

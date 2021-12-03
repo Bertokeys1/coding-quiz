@@ -288,17 +288,6 @@ function nextQuestion(event) {
 
 
 
-// function addQuestions() {
-//     var questions = document.createElement("div");
-//     contentEl.append(questions);
-//     questions.textContent = ""
-//     //display questions and answers
-//     var multiChoice = document.createElement("button");
-//     contentEl.append(multiChoice);
-//     multiChoice.textContent = "";
 
-    
-
-// }
 
 startGameButton.addEventListener("click",countdown);
